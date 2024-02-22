@@ -1,0 +1,43 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+don's example
+ask for 2 numbers 
+add the 2 numbers together 
+print on the screen the sum of those 2 numbers
+
+
+ask for the 2 numbers
+add the 2 numbers together 
+print on the screen the sum
+
+// Exercise 2: Check if a Number is Even or Odd
+
+ask for the number
+evaluate the number to check if it ends in 0,2,4,6,8 for even or 1,3,5,7,9 for odd
+print on the screen whether the number is even or odd
+
+// Exercise 3: 
+
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+ask for the 5 separate numbers
+add the 5 numbers together for a sum
+divide the sum by 5 for the average
+print on screen "the average of the 5 numbers is X"
+start over
+ask the 5 separate numbers 
+list numbers from least to greatest
+identify smallest number 
+identify largest number
+print on the screen "smallest number is Y and largest number is Z"
+
+-- END --
